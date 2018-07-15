@@ -1,0 +1,67 @@
+{
+    "coins": [{
+            "keyName": "BCCEUR",
+            "value": "1,244.26331",
+            "fluctuation": "upgrade",
+            "fluctuationKey": "up",
+            "unicode": "\u2197"
+        },
+        {
+            "keyName": "BTCGBP",
+            "value": "7,088.48",
+            "fluctuation": "downgrade",
+            "fluctuationKey": "down",
+            "unicode": "\u2198"
+        },
+        {
+            "keyName": "BTCEUR",
+            "value": "8,444.84879",
+            "fluctuation": "downgrade",
+            "fluctuationKey": "down",
+            "unicode": "\u2197"
+        },
+        {
+            "keyName": "BTCGBP",
+            "value": "7,088.48",
+            "fluctuation": "downgrade",
+            "fluctuationKey": "down",
+            "unicode": "\u2197"
+
+        },
+        {
+            "keyName": "BTCRUB",
+            "value": "614,411.15205",
+            "fluctuation": "upgrade",
+            "fluctuationKey": "up",
+            "unicode": "\u2197"
+        },
+        {
+            "keyName": "BTCUSD",
+            "value": "10,487.9123",
+            "fluctuation": "downgrade",
+            "fluctuationKey": "down",
+            "unicode": "\u2197"
+        },
+        {
+            "keyName": "BTGBTC",
+            "value": "0.013",
+            "fluctuation": "downgrade",
+            "fluctuationKey": "down",
+            "unicode": "\u2197"
+        },
+        {
+            "keyName": "BTGEUR",
+            "value": "118.91234",
+            "fluctuation": "upgrade",
+            "fluctuationKey": "up",
+            "unicode": "\u2197"
+        },
+        {
+            "keyName": "BCCEUR",
+            "value": "1,244.26331",
+            "fluctuation": "upgrade",
+            "fluctuationKey": "up",
+            "unicode": "\u2197"
+        }
+    ]
+}
